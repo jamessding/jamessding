@@ -10,3 +10,14 @@
 ### About Me 👨‍💻
 
 I'm James, a Full Stack Web Developer with a passion for creating and optimizing web applications. I know JavaScript, React, Express, PostgreSQL, Node, CSS, and more - but I'm always looking to learn more about new tools and technologies!
+
+Researcher  :arrow_right:  Professional League of Legends Athlete  :arrow_right:  Software Engineer
+
+### Hobbies ✨
+- 🎾 Tennis
+- 🎳 Bowling
+- 🧗 Bouldering
+- 🏹 Archery
+
+### Let's Connect! 📫
+- [LinkedIn](https://www.linkedin.com/in/jamessding/)
