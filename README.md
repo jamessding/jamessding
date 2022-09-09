@@ -17,7 +17,7 @@ Researcher  :arrow_right:  Professional League of Legends Athlete  :arrow_right:
 - 🎾 Tennis
 - 🎳 Bowling
 - 🧗 Bouldering
-- 🏹 Archery
+- :video_game: Gaming
 
 ### Let's Connect! 📫
 - [LinkedIn](https://www.linkedin.com/in/jamessding/)
